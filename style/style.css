@@ -290,10 +290,6 @@ body {
   .six .hat {
     left: 32%;
   }
-
-  .wish-hbd {
-    font-size: 1.75em;
-  }
 }
 
 @media screen and (max-width: 500px) {
